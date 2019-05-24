@@ -28,7 +28,7 @@ const App = () => {
               <IonButtons slot="start">
                 <IonMenuButton />
               </IonButtons>
-              <IonTitle>Signup</IonTitle>
+              <IonTitle>TrashFinder</IonTitle>
             </IonToolbar>
           </IonHeader>
         </IonPage>
